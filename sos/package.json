@@ -1,0 +1,27 @@
+{
+  "name": "@signageos/videowall-designer-sos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "timing-configure",
+  "dependencies": {
+    "@signageos/test": "0.1.0-mz-autoTesting.33113245"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/signageos/videowall-designer.git"
+  },
+  "keywords": [
+    "videowall",
+    "designer"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/signageos/videowall-designer/issues"
+  },
+  "homepage": "https://github.com/signageos/videowall-designer#readme"
+}
